@@ -7,7 +7,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error, r2_score
 
 # Load the dataset
-df = pd.read_csv('C:/Users/ajayx/Downloads/HousingData (1).csv')
+df = pd.read_csv('C:\Users\vijay\OneDrive\Desktop.csv')
 
 
 # Drop rows with missing values
